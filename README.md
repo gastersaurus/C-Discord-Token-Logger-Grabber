@@ -2,6 +2,8 @@
 
 ### Logs tokens from discord, discord canary, ptb, etc
 
+![image](https://github.com/gastersaurus/C-Discord-Token-Logger-Grabber/assets/154365450/42964312-ad4e-4a5e-9858-ff1a3c9981b8)
+
 ## Usage
 - Edit the webhook url in config.h which is in the config folder to your own webhook url.
 - You may also add paths to other discord clients in config.c in the same folder. 
