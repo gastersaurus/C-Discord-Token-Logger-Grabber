@@ -56,7 +56,7 @@ You can also use the [Discord Token Login Chrome Extention](https://github.com/g
 ##### Meson
 ##### Ninja
 - From the start menu, search for "x64 Native Tools Command Prompt for VS 2019" and open it.
-- Navigate to the directory where you cloned the repo.
+- cd into to the directory where you cloned the repo.
 - Run the following commands:
 ```
 meson wrap install openssl
