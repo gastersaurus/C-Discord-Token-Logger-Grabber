@@ -1,4 +1,4 @@
-# Simple Discord Token Logger in C 
+# Simple Discord Token Logger in C    [![Support Server](https://img.shields.io/discord/1187499640879333457.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/XqUZw3ArAp)
 
 ### Logs tokens from discord, discord canary, ptb, etc
 
